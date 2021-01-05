@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+  <book id="001">
+    <name>水浒传</name>
+    <author>施耐庵</author>
+    <price>88</price>
+  </book>
+</books>
